@@ -1,4 +1,4 @@
-# jandis
+# J4Ndiss
 JNDI Exploit Server for exploiting `#log4shell` ([CVE-2021-44228](https://nvd.nist.gov/vuln/detail/CVE-2021-44228))
 
 To start the server, customize the port exposure within the command.
